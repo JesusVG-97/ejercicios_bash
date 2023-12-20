@@ -1,0 +1,4 @@
+alta Juan Perez Rodriguez
+baja Maria Garcia Lopez
+alta Pedro Gomez Soto grupo1
+baja Ana Ruiz Fernandez
